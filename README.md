@@ -7,4 +7,7 @@ New Bug discovered during QA, now fixed
 
 Added Flush session to clear cache
 
+Prevented app from crashing
+
+Enable auto fill for configuration screen
 
