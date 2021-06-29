@@ -6,4 +6,6 @@ This is the SSO code to be implemented and track changes against SSO feature of 
 
 Added Flush session to clear cache
 
+Handled Null Pointer exception
+
 
