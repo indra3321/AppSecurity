@@ -20,3 +20,5 @@ Make UI Enhancements
 Additional UI Enhancements
 
 CReated Fix for Bug number 5 to stop crashes
+
+CReated Fix for bug 6 and stopped crashes
