@@ -7,4 +7,4 @@ New Bug discovered during QA, now fixed
 
 Added Flush session to clear cache
 
-Added Null Pointer Exception Handling Logics
+Added Null Pointer Exception Handler
