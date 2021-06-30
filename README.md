@@ -7,6 +7,14 @@ New Bug discovered during QA, now fixed
 
 Added Flush session to clear cache
 
+<<<<<<< HEAD
 Added Null Pointer Exception Handler
+=======
+Prevented app from crashing
+
+Enable auto fill for configuration screen
+>>>>>>> origin/CU-z7h9kh_Implement-SSO_bug1
 
 Make UI Enhancements
+
+Additional UI Enhancements
