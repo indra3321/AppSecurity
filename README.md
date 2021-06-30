@@ -18,3 +18,5 @@ Enable auto fill for configuration screen
 Make UI Enhancements
 
 Additional UI Enhancements
+
+CReated Fix for Bug number 5 to stop crashes
